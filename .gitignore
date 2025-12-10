@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+env/
+ENV/
+
+# FastAPI / Uvicorn artifacts
+*.log
+
+# System files
+.DS_Store
+
+# Editor/IDE
+.vscode/
+.idea/
+venv/
+venv/
